@@ -1,0 +1,85 @@
+/* body{background-image: none;} */
+.destination{font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 29px;
+    
+    color: #000000;
+    }
+small{font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+    
+    
+    color: #2B2B2B;}
+    hr{
+        position: absolute;
+        width: 1100px;
+        height: 0px;
+        left: 80px;
+        top: 108px;
+        
+        border: 1px solid #D1D1D1;}
+        .dest{
+            font-family: Montserrat;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 18px;
+            line-height: 26px;
+            /* or 144% */
+            
+            
+            color: #000000;}
+            .image{
+                width: 270px;
+                height: 188px;
+                left: 135px;
+                top: 215px;
+                
+                /* background: url(.jpg), #C4C4C4; */
+                border-radius: 5px;}
+                .rooms{font-family: Montserrat;
+                    font-style: normal;
+                    font-weight: normal;
+                    font-size: 16px;
+                    line-height: 20px;
+                    /* identical to box height */
+                    
+                    
+                    color: #6A6A6A;
+                    }
+                    .facilites{
+                        font-family: Montserrat;
+                        font-style: normal;
+                        font-weight: normal;
+                        font-size: 16px;
+                        line-height: 20px;
+                        /* identical to box height */
+                        
+                        
+                        color: #6A6A6A;
+
+                    }
+                    .cancel{font-family: Montserrat;
+                        font-style: normal;
+                        font-weight: normal;
+                        font-size: 16px;
+                        line-height: 20px;
+                        /* identical to box height */
+                        
+                        
+                        color: #6A6A6A;
+                        }
+                        .star img{width: 17.44px;}
+                        .sub{
+                            font-family: Montserrat;
+                            font-style: normal;
+                            font-weight: 200;
+                            font-size: 14px;
+                            line-height: 17px;
+                            
+                            color: #898989;}

@@ -1,0 +1,17 @@
+.login{
+    
+  border: 2px solid gray;
+}
+.login_form{
+  align-items: center;
+  margin-bottom: 100px;
+}
+.login input{
+  
+  margin-top: 10px;
+}
+.sign{
+  width:400px;
+  margin: 10px;
+  border-radius: 20px;
+}
